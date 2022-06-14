@@ -31,7 +31,7 @@ https://jonrosenblum.github.io/Weather-Dashboard/
 
 ### Screenshot
 
-![screenshot](./Assets/Screen%20Shot%202022-06-13%20at%2011.40.49%20AM.png)
+![screenshot](./Assets/Screen%20Shot%202022-06-13%20at%209.21.49%20PM.png)
 
 ## Contact
 
