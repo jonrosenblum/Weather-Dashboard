@@ -1,0 +1,64 @@
+* {
+  font-family: avenir, sans-serif;
+  background-color: #f8ffe5;
+}
+
+.heading {
+  text-align: center;
+  padding: 5%;
+  color: #0a0a0a;
+}
+
+.search-bar {
+  border: 1px #0a0a0a solid;
+  border-radius: 15px;
+  margin: 2% 5%;
+}
+
+.search-button {
+  border: none;
+  border-radius: 15px/15px;
+  background-color: #0a0a0a;
+  color: #f8ffe5;
+}
+
+.current-weather,
+.city-heading,
+.current-date,
+.current-weather-icon,
+.current-weather-list,
+.temp,
+.humidity,
+.windSpeed {
+  background-color: #0a0a0a;
+  color: #f8ffe5;
+  border-radius: 15px;
+  letter-spacing: 0.2em;
+}
+.uvIndex {
+  background-color: #0a0a0a;
+  color: #f8ffe5;
+  border-radius: 15px;
+  letter-spacing: 0.2em;
+  padding: 1% 2%;
+}
+
+.search-element {
+  border-radius: 15px;
+  margin: 2% 5%;
+  text-align: center;
+  background-color: #0a0a0a;
+  color: #f8ffe5;
+}
+
+.current-weather {
+  padding: 5%;
+}
+
+.forcast-weather {
+  border: 1px #0a0a0a solid;
+  border-radius: 15px;
+  padding: 2%;
+  overflow: hidden;
+  margin: 1%;
+}
